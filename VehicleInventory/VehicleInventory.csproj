@@ -21,7 +21,6 @@
     <Folder Include="Data\Repositories\" />
     <Folder Include="Data\Persistence\" />
     <Folder Include="Models\Application\Validation\" />
-    <Folder Include="Models\Application\Services\" />
   </ItemGroup>
 
 </Project>

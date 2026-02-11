@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jaimi\\OneDrive\\Desktop\\VehicleInventory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE97E926-280E-4DC2-9BDD-02938BAD4F96}|VehicleInventory\\VehicleInventory.csproj|c:\\users\\jaimi\\onedrive\\desktop\\vehicleinventory\\vehicleinventory\\models\\domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE97E926-280E-4DC2-9BDD-02938BAD4F96}|VehicleInventory\\VehicleInventory.csproj|solutionrelative:vehicleinventory\\models\\domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE97E926-280E-4DC2-9BDD-02938BAD4F96}|VehicleInventory\\VehicleInventory.csproj|c:\\users\\jaimi\\onedrive\\desktop\\vehicleinventory\\vehicleinventory\\vehicleinventory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CE97E926-280E-4DC2-9BDD-02938BAD4F96}|VehicleInventory\\VehicleInventory.csproj|solutionrelative:vehicleinventory\\vehicleinventory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "C:\\Users\\jaimi\\OneDrive\\Desktop\\VehicleInventory\\VehicleInventory\\Models\\Domain\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "VehicleInventory\\Models\\Domain\\Exceptions\\DomainException.cs",
+              "ToolTip": "C:\\Users\\jaimi\\OneDrive\\Desktop\\VehicleInventory\\VehicleInventory\\Models\\Domain\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "VehicleInventory\\Models\\Domain\\Exceptions\\DomainException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:50:59.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VehicleInventory",
+              "DocumentMoniker": "C:\\Users\\jaimi\\OneDrive\\Desktop\\VehicleInventory\\VehicleInventory\\VehicleInventory.csproj",
+              "RelativeDocumentMoniker": "VehicleInventory\\VehicleInventory.csproj",
+              "ToolTip": "C:\\Users\\jaimi\\OneDrive\\Desktop\\VehicleInventory\\VehicleInventory\\VehicleInventory.csproj",
+              "RelativeToolTip": "VehicleInventory\\VehicleInventory.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-11T18:28:08.675Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

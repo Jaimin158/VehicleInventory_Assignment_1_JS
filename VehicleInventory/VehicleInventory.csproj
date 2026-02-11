@@ -20,7 +20,6 @@
   <ItemGroup>
     <Folder Include="Data\Repositories\" />
     <Folder Include="Data\Persistence\" />
-    <Folder Include="Models\Application\Interfaces\" />
     <Folder Include="Models\Application\Validation\" />
     <Folder Include="Models\Application\Services\" />
   </ItemGroup>

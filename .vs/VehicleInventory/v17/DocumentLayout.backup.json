@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\jaimi\\OneDrive\\Desktop\\VehicleInventory\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CE97E926-280E-4DC2-9BDD-02938BAD4F96}|VehicleInventory\\VehicleInventory.csproj|c:\\users\\jaimi\\onedrive\\desktop\\vehicleinventory\\vehicleinventory\\models\\domain\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE97E926-280E-4DC2-9BDD-02938BAD4F96}|VehicleInventory\\VehicleInventory.csproj|solutionrelative:vehicleinventory\\models\\domain\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE97E926-280E-4DC2-9BDD-02938BAD4F96}|VehicleInventory\\VehicleInventory.csproj|c:\\users\\jaimi\\onedrive\\desktop\\vehicleinventory\\vehicleinventory\\models\\domain\\enums\\vehiclestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE97E926-280E-4DC2-9BDD-02938BAD4F96}|VehicleInventory\\VehicleInventory.csproj|solutionrelative:vehicleinventory\\models\\domain\\enums\\vehiclestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CE97E926-280E-4DC2-9BDD-02938BAD4F96}|VehicleInventory\\VehicleInventory.csproj|c:\\users\\jaimi\\onedrive\\desktop\\vehicleinventory\\vehicleinventory\\models\\domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE97E926-280E-4DC2-9BDD-02938BAD4F96}|VehicleInventory\\VehicleInventory.csproj|solutionrelative:vehicleinventory\\models\\domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE97E926-280E-4DC2-9BDD-02938BAD4F96}|VehicleInventory\\VehicleInventory.csproj|c:\\users\\jaimi\\onedrive\\desktop\\vehicleinventory\\vehicleinventory\\models\\application\\dtos\\vehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE97E926-280E-4DC2-9BDD-02938BAD4F96}|VehicleInventory\\VehicleInventory.csproj|solutionrelative:vehicleinventory\\models\\application\\dtos\\vehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CE97E926-280E-4DC2-9BDD-02938BAD4F96}|VehicleInventory\\VehicleInventory.csproj|c:\\users\\jaimi\\onedrive\\desktop\\vehicleinventory\\vehicleinventory\\vehicleinventory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -18,11 +30,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VehicleDto.cs",
+              "DocumentMoniker": "C:\\Users\\jaimi\\OneDrive\\Desktop\\VehicleInventory\\VehicleInventory\\Models\\Application\\DTOs\\VehicleDto.cs",
+              "RelativeDocumentMoniker": "VehicleInventory\\Models\\Application\\DTOs\\VehicleDto.cs",
+              "ToolTip": "C:\\Users\\jaimi\\OneDrive\\Desktop\\VehicleInventory\\VehicleInventory\\Models\\Application\\DTOs\\VehicleDto.cs",
+              "RelativeToolTip": "VehicleInventory\\Models\\Application\\DTOs\\VehicleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:56:09.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\jaimi\\OneDrive\\Desktop\\VehicleInventory\\VehicleInventory\\Models\\Domain\\Entities\\Vehicle.cs",
+              "RelativeDocumentMoniker": "VehicleInventory\\Models\\Domain\\Entities\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\jaimi\\OneDrive\\Desktop\\VehicleInventory\\VehicleInventory\\Models\\Domain\\Entities\\Vehicle.cs",
+              "RelativeToolTip": "VehicleInventory\\Models\\Domain\\Entities\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:54:20.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VehicleStatus.cs",
+              "DocumentMoniker": "C:\\Users\\jaimi\\OneDrive\\Desktop\\VehicleInventory\\VehicleInventory\\Models\\Domain\\Enums\\VehicleStatus.cs",
+              "RelativeDocumentMoniker": "VehicleInventory\\Models\\Domain\\Enums\\VehicleStatus.cs",
+              "ToolTip": "C:\\Users\\jaimi\\OneDrive\\Desktop\\VehicleInventory\\VehicleInventory\\Models\\Domain\\Enums\\VehicleStatus.cs",
+              "RelativeToolTip": "VehicleInventory\\Models\\Domain\\Enums\\VehicleStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:53:11.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "DomainException.cs",
               "DocumentMoniker": "C:\\Users\\jaimi\\OneDrive\\Desktop\\VehicleInventory\\VehicleInventory\\Models\\Domain\\Exceptions\\DomainException.cs",
               "RelativeDocumentMoniker": "VehicleInventory\\Models\\Domain\\Exceptions\\DomainException.cs",
@@ -35,16 +86,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "VehicleInventory",
+              "DocumentIndex": 4,
+              "Title": "VehicleInventory.csproj",
               "DocumentMoniker": "C:\\Users\\jaimi\\OneDrive\\Desktop\\VehicleInventory\\VehicleInventory\\VehicleInventory.csproj",
               "RelativeDocumentMoniker": "VehicleInventory\\VehicleInventory.csproj",
               "ToolTip": "C:\\Users\\jaimi\\OneDrive\\Desktop\\VehicleInventory\\VehicleInventory\\VehicleInventory.csproj",
               "RelativeToolTip": "VehicleInventory\\VehicleInventory.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-11T18:28:08.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-11T18:28:08.675Z"
             }
           ]
         }
